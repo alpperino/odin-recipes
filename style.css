@@ -1,0 +1,17 @@
+/* Killer CSS */
+
+body {
+    font-family:'Courier New', Courier, monospace
+}
+
+h1 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-weight: 700;
+}
+
+ul {
+    font-weight: 500;
+    background-color: palevioletred
+}
